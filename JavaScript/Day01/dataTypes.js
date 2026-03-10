@@ -5,4 +5,6 @@ console.log(typeof"Shawon");
 3. string 
 4. null er mane holo also a value but not 0 (typeof(null)= object)
 5. undefined er mane holo value ekhono assign kora hoynai (typeof(undefined)= undefined)
+6. NaN not a number typeof(NaN)=number
+7. boolean means yes or no or true or false
 */
